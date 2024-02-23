@@ -1,4 +1,4 @@
-console.log("testing")
+console.log("testing");
 
 const rippleSettings = {
   maxSize: 100,
