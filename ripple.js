@@ -1,3 +1,5 @@
+console.log("testing")
+
 const rippleSettings = {
   maxSize: 100,
   animationSpeed: 5,
